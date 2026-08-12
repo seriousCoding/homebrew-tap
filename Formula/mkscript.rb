@@ -1,8 +1,8 @@
 class Mkscript < Formula
   desc "Create Bash, Terraform, and Ansible starter files safely"
   homepage "https://github.com/seriousCoding/mkscript"
-  url "https://github.com/seriousCoding/mkscript/releases/download/v1.4.3/mkscript-1.4.3.tar.gz"
-  sha256 "02fc7840a09cef935849f409b7ee89c4e0b087213f744382b86b3398ca18c2cc"
+  url "https://github.com/seriousCoding/mkscript/releases/download/v1.4.4/mkscript-1.4.4.tar.gz"
+  sha256 "324f63244549ea0f41961da74ce0772649c66e2cb14876e5421518c5fab610ac"
   license "MIT"
 
   def install
